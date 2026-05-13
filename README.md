@@ -1,6 +1,8 @@
 # mixed_model
 Generalized Linear Mixed Effects Models Use mixed_model (GLMMadaptive) With (In) R Software
 
+https://www.youtube.com/watch?v=eJGUha8qG-w
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
